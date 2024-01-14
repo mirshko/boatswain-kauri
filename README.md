@@ -6,7 +6,7 @@ This template should help get you started developing a Tauri tray app with an ap
 
 - **Rust**: tauri, chrono, reqwest, anyhow
 - **Javascript**: typescript, eslint, Vite, React
-- **Styles**: tailwind
+- **Styles**: tailwind, catalyst-ui
 
 ## Overview
 
