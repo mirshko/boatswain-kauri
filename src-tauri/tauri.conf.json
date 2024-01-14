@@ -16,7 +16,12 @@
       "iconAsTemplate": true
     },
     "allowlist": {
-      "all": true
+      "all": true,
+      "http": {
+        "all": true,
+        "request": true,
+        "scope": ["https://api.usefathom.com/**"]
+      }
     },
     "bundle": {
       "active": true,
