@@ -1,4 +1,4 @@
-import { Button } from "@/components/button";
+import { Button } from "../components/button";
 import { invoke } from "@tauri-apps/api";
 import { Event, listen } from "@tauri-apps/api/event";
 import { useEffect, useState } from "react";
